@@ -1,6 +1,3 @@
-To create an attractive README file for your Firebase Contact App, here's a suggested format:
-
----
 
 # Firebase Contact App
 
